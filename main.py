@@ -2,7 +2,7 @@ import telebot
 from datetime import datetime, timedelta
 import csv
 
-botapi = "6897261616:AAF63sGI8jdp2oIIZJoAnFig8JawlUxUnN4"
+botapi = "YOURTELEGRAMBOTAPIKEY"
 
 bot = telebot.TeleBot(botapi, parse_mode=None)
 
